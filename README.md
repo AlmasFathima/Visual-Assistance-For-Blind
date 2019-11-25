@@ -1,5 +1,5 @@
 # Visual-Assistance-For-Blind
-Provides Visual Assitance for visually impaired individual.
+Provides Voice based Assitance for visually impaired individual.
 
 INSTALLATIONS:
 
